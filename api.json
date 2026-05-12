@@ -1,0 +1,2990 @@
+{
+    "status": "success",
+    "data": {
+        "name": "Клан Сопрано",
+        "original_name": "The Sopranos",
+        "alternative_name": "Семья Сопрано",
+        "year": 1999,
+        "category": 2,
+        "id_kp": 79848,
+        "alternative_id_kp": null,
+        "id_imdb": "tt0141842",
+        "id_tmdb": 1398,
+        "id_world_art": null,
+        "token_movie": "56c6c29600dacf37f70281e1ea9656",
+        "country": "США",
+        "genre": "драма, криминал",
+        "actors": "Джеймс Гандольфини, Иди Фалько, Лоррейн Бракко, Майкл Империоли, Стив Ван Зандт, Роберт Айлер, Тони Сирико, Джэми-Линн Сиглер, Доминик Кьянезе, Винсент Пасторе",
+        "directors": "Тимоти Ван Паттен, Джон Паттерсон, Аллен Култер, Алан Тейлор",
+        "producers": "Мартин Брюстл, Дэвид Чейз, Брэд Грэй, Илен С. Лэндресс",
+        "premiere_ru": "2002-10-27",
+        "premiere": "1999-01-10",
+        "age_restrictions": 18,
+        "rating_mpaa": null,
+        "rating_kp": 8.881,
+        "rating_imdb": 9.2,
+        "time": "00:55",
+        "tagline": "Tony's not like other fathers. Tony is a mob boss",
+        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/c5539203-bd0a-4d93-920a-11be2fbbd778/600x900",
+        "description": "Мафиозный босс Северного Джерси Тони Сопрано эффективно решает проблемы «семьи». Но с собственной роднёй ситуация сложнее: дети от рук отбились, брак под угрозой, в отношениях с пожилой матерью сплошное недопонимание. После серии панических атак он решает тайно посещать психотерапевта.",
+        "seasons_count": 6,
+        "seasons": {
+            "1": {
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "season": 1,
+                "episodes": {
+                    "1": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 1,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "2": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 2,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "3": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 3,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 4,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "5": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 5,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "6": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 6,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "7": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 7,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "8": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 8,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "9": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 9,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "10": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 10,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "11": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 11,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "12": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 12,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "13": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 13,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "79": {
+                                "translation": "Субтитры",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "93": {
+                                "translation": "Оригинальный",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=1&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    }
+                }
+            },
+            "2": {
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "season": 2,
+                "episodes": {
+                    "1": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 1,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "2": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 2,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "3": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 3,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 4,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "5": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 5,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "6": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 6,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "7": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 7,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "8": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 8,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "9": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 9,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "10": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 10,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "11": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 11,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "12": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 12,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "13": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=2&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 13,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=2&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=2&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=2&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=2&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    }
+                }
+            },
+            "3": {
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "season": 3,
+                "episodes": {
+                    "1": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 1,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "2": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 2,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "3": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 3,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 4,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "5": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 5,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "6": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 6,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "7": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 7,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "8": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 8,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "9": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 9,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "10": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 10,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "11": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 11,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "12": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 12,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "13": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=3&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 13,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=3&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=3&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=3&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=3&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    }
+                }
+            },
+            "4": {
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "season": 4,
+                "episodes": {
+                    "1": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 1,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "2": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 2,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "3": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 3,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 4,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "5": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 5,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "6": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 6,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "7": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 7,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "8": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 8,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "9": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 9,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "10": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 10,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "11": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 11,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "12": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 12,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "13": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=4&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 13,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=4&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=4&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "96": {
+                                "translation": "TVShows",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&season=4&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=4&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    }
+                }
+            },
+            "5": {
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "season": 5,
+                "episodes": {
+                    "1": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 1,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "2": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 2,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "3": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 3,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 4,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "5": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 5,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "6": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 6,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "7": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 7,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "8": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 8,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "9": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 9,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "10": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 10,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "11": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 11,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "12": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 12,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "13": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=5&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 13,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=5&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=5&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=5&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    }
+                }
+            },
+            "6": {
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "season": 6,
+                "episodes": {
+                    "1": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 1,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=1&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "2": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 2,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=2&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "3": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 3,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "HDTV",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=3&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 4,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "HDTV",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=4&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "5": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 5,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=5&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "6": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 6,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=6&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "7": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 7,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=7&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "8": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 8,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=8&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "9": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 9,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=9&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "10": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 10,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=10&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "11": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 11,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=11&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "12": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 12,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=12&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "13": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 13,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=13&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "14": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=14&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 14,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=14&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=14&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=14&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "15": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=15&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 15,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=15&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=15&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=15&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "16": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=16&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 16,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=16&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=16&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=16&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "17": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=17&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 17,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=17&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=17&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=17&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "18": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=18&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 18,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=18&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=18&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=18&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "19": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=19&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 19,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=19&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=19&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=19&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "20": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=20&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 20,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=20&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=20&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=20&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    },
+                    "21": {
+                        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&season=6&episode=21&token=04941a9a3ca3ac16e2b4327347bbc1",
+                        "episode": 21,
+                        "translation": {
+                            "42": {
+                                "translation": "Novamedia",
+                                "quality": "WEB-DL",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&season=6&episode=21&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "63": {
+                                "translation": "Гоблин",
+                                "quality": "WEBRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&season=6&episode=21&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            },
+                            "154": {
+                                "translation": "Украинский",
+                                "quality": "BDRip",
+                                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&season=6&episode=21&token=04941a9a3ca3ac16e2b4327347bbc1",
+                                "uhd": false,
+                                "lgbt": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last_episode": 21,
+        "quality": "BDRip, WEB-DL, WEBRip, HDTV",
+        "translation": "Украинский, Novamedia, Гоблин, TVShows, Оригинальный, Субтитры",
+        "translation_iframe": {
+            "42": {
+                "name": "Novamedia",
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=42&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "quality": "WEB-DL",
+                "adv": false,
+                "date": "2024-05-24 13:14:07"
+            },
+            "63": {
+                "name": "Гоблин",
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=63&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "quality": "WEB-DL",
+                "adv": false,
+                "date": "2024-05-24 13:14:07"
+            },
+            "79": {
+                "name": "Субтитры",
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=79&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "quality": "WEB-DL",
+                "adv": false,
+                "date": "2024-05-24 13:14:07"
+            },
+            "93": {
+                "name": "Оригинальный",
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=93&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "quality": "WEB-DL",
+                "adv": false,
+                "date": "2024-05-24 13:14:07"
+            },
+            "96": {
+                "name": "TVShows",
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=96&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "quality": "BDRip",
+                "adv": false,
+                "date": "2025-02-04 22:40:52"
+            },
+            "154": {
+                "name": "Украинский",
+                "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&translation=154&token=04941a9a3ca3ac16e2b4327347bbc1",
+                "quality": "BDRip",
+                "adv": false,
+                "date": "2024-10-20 22:56:23"
+            }
+        },
+        "iframe": "https://miyagi-as.stravers.live/?token_movie=56c6c29600dacf37f70281e1ea9656&token=04941a9a3ca3ac16e2b4327347bbc1",
+        "iframe_trailer": null,
+        "lgbt": false,
+        "uhd": false,
+        "available_directors_cut": false
+    }
+}

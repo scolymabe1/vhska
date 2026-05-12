@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Поиск - VHSka</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+	<link
+		href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Montserrat+Alternates:wght@100..900&display=swap"
+		rel="stylesheet"
+	>
+
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
+
+	<link href="./output.css" rel="stylesheet">
+</head>
+
+<body class="flex min-h-screen flex-col bg-neutral-900 font-montserrat text-white">
+
+	<!-- HEADER -->
+	<header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
+		<div class="container mx-auto grid grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+
+			<a href="." class="flex h-9">
+				<img src="images/logo.png" alt="VHSka">
+			</a>
+
+			<nav>
+				<ul class="flex gap-4">
+					<li>
+						<a href="films.html" class="transition-colors hover:text-gray-300">
+							ФИЛЬМЫ
+						</a>
+					</li>
+
+					<li>
+						<a href="series.html" class="transition-colors hover:text-gray-300">
+							СЕРИАЛЫ
+						</a>
+					</li>
+
+					<li>
+						<a href="cartoons.html" class="transition-colors hover:text-gray-300">
+							МУЛЬТФИЛЬМЫ
+						</a>
+					</li>
+				</ul>
+			</nav>
+
+			<form action="search.html" method="get" class="flex items-center gap-2 rounded-lg bg-neutral-800 px-4 py-2">
+				<input
+					name="q"
+					type="text"
+					placeholder="Поиск..."
+					class="w-full bg-transparent text-white outline-none placeholder:text-sm placeholder:text-neutral-500"
+				>
+
+				<button
+					type="submit"
+					class="flex aspect-square items-center justify-center rounded-full bg-neutral-700 px-3 text-neutral-400 transition-opacity hover:opacity-80"
+				>
+					+
+				</button>
+			</form>
+
+		</div>
+	</header>
+
+	<main class="grow" x-data="searchPage" x-init="init()">
+
+		<section class="container mx-auto px-4 py-20">
+
+			<h1 class="text-2xl font-bold mb-6">Результаты поиска: <span class="font-medium" x-text="query"></span></h1>
+
+			<div class="grid grid-cols-5 gap-10">
+
+				<template x-for="item in results" :key="item.id">
+
+					<div 
+						class="group relative aspect-[2/3] cursor-pointer overflow-hidden rounded-xl shadow-2xl transition-all duration-500 hover:-translate-y-3 hover:ring-4 hover:ring-inset hover:ring-white/20"
+						@click="openMovie(item)"
+					>
+
+						<img
+							:src="item.poster"
+							:alt="item.name"
+							class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
+						>
+
+						<div class="absolute left-3 top-3 rounded-lg backdrop-blur bg-black/50 px-2 py-1 text-sm"
+                            x-show="item.rating != null && item.rating !== ''">
+                            <span x-text="item.rating"></span>
+                        </div>
+
+                        <div class="absolute right-3 top-3 rounded-lg backdrop-blur bg-black/50 px-2 py-1 text-sm"
+                            x-show="item.type">
+                            <span x-text="{
+                                    'TV_SERIES': 'Сериал',
+                                    'TV_SERIAL': 'Сериал',
+                                    'MINI_SERIES': 'Мини-сериал',
+                                    'TV_SHOW': 'ТВ-шоу',
+                                    'VIDEO': 'Видео',
+                                    'FILM': 'Фильм'
+                                }[item.type] || 'Неизвестно'"></span>
+                        </div>
+
+                        <div class="absolute inset-0 bg-linear-to-t from-black via-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
+
+                        <div class="relative flex h-full flex-col justify-end p-4 text-center opacity-0 transition-all duration-500 group-hover:opacity-100">
+
+                            <h3 class="text-lg font-bold leading-tight" x-text="item.name"></h3>
+
+                            <p class="text-sm text-gray-300" x-text="item.genre"></p>
+
+						</div>
+
+                    </div>
+
+                </template>
+
+            </div>
+
+            <div class="mt-16 flex justify-center"> 
+                <button 
+                    type="button"
+                    @click="loadMore"
+                    :disabled="isLoading || !hasMore"
+                    class="group inline-flex items-center justify-center px-8 py-4 font-bold text-white transition-all duration-300 bg-neutral-800 rounded-full hover:bg-white hover:text-black focus:outline-none focus:ring-4 focus:ring-white/20 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
+                >
+                    <span x-text="isLoading ? 'Загрузка...' : (hasMore ? 'Показать ещё' : 'Больше нет')"></span>
+                </button>
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="border-t border-white/10 py-10 text-center text-gray-500">
+        &copy; 2026 VHSka. Все права защищены.
+    </footer>
+
+	<script src="./js/search.js"></script>
+</body>
+</html>
