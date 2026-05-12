@@ -8,9 +8,9 @@ document.addEventListener('alpine:init', () => {
 
         // Функция, которая запускается при загрузке страницы
         async init() {
-            // Получаем id фильма из URL (например, ?id=123 или ?kp=123)
+            // Получаем id фильма из URL (например, ?id=123)
             const urlParams = new URLSearchParams(window.location.search);
-            const movieId = urlParams.get('id') || urlParams.get('kp') || urlParams.get('kinopoisk_id');
+            const movieId = urlParams.get('id');
 
             // Если id нет, ничего не делаем
             if (!movieId) {
@@ -19,10 +19,9 @@ document.addEventListener('alpine:init', () => {
             }
 
             try {
-                // Используем apicollaps для получения данных по kinopoisk_id
-                const token = 'eedefb541aeba871dcfc756e6b31c02e';
+                // Делаем запрос к API для получения данных фильма
                 const res = await fetch(
-                    `https://apicollaps.cc/list?token=${token}&kinopoisk_id=${encodeURIComponent(movieId)}`
+                    `https://api.alloha.tv/?token=04941a9a3ca3ac16e2b4327347bbc1&kp=${movieId}`
                 );
 
                 if (!res.ok) {
@@ -31,15 +30,13 @@ document.addEventListener('alpine:init', () => {
 
                 const data = await res.json();
 
-                const movie = Array.isArray(data?.results) && data.results.length ? data.results[0] : null;
-                this.movie = movie;
+                this.movie = data.data || null;
 
                 if (!this.movie) {
                     console.log('Фильм не найден');
                     return;
                 }
 
-                // Предпочтительно использовать поле iframe_url, затем iframe
                 if (this.movie.seasons) {
                     const seasonKeys = Object.keys(this.movie.seasons)
                         .map(Number)
@@ -55,12 +52,12 @@ document.addEventListener('alpine:init', () => {
                             .sort((a, b) => a - b);
 
                         const firstEpisode = firstSeason.episodes[String(episodeKeys[0])];
-                        this.iframeLink = firstEpisode?.iframe || firstEpisode?.iframe_url || firstSeason?.iframe || firstSeason?.iframe_url || '';
+                        this.iframeLink = firstEpisode?.iframe || firstSeason?.iframe || '';
                     } else {
-                        this.iframeLink = firstSeason?.iframe || firstSeason?.iframe_url || '';
+                        this.iframeLink = firstSeason?.iframe || '';
                     }
                 } else {
-                    this.iframeLink = this.movie.iframe_url || this.movie.iframe || this.movie.iframe_link || '';
+                    this.iframeLink = this.movie.iframe || '';
                 }
 
             } catch (error) {
