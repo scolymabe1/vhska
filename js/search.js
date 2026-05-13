@@ -29,7 +29,7 @@ document.addEventListener('alpine:init', () => {
                 // Сначала пробуем v2.1 search-by-keyword
                 const urlV21 = `https://kinopoiskapiunofficial.tech/api/v2.1/films/search-by-keyword?keyword=${encodeURIComponent(this.query)}&page=${this.page}`;
                 const res1 = await fetch(urlV21, {
-                    headers: { 'X-API-KEY': 'c550bd9c-a247-40da-b14d-469cc15c8c0b' }
+                    headers: { 'X-API-KEY': '29070f74-af77-46bc-a8b9-89ef73a7684c' }
                 });
 
                 if (res1.ok) {
@@ -61,7 +61,7 @@ document.addEventListener('alpine:init', () => {
                 // Альтернативный вариант: v2.2 films?keyword=
                 const urlV22 = `https://kinopoiskapiunofficial.tech/api/v2.2/films?keyword=${encodeURIComponent(this.query)}&page=${this.page}`;
                 const res2 = await fetch(urlV22, {
-                    headers: { 'X-API-KEY': 'c550bd9c-a247-40da-b14d-469cc15c8c0b' }
+                    headers: { 'X-API-KEY': '29070f74-af77-46bc-a8b9-89ef73a7684c' }
                 });
 
                 if (res2.ok) {
