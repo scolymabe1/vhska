@@ -27,7 +27,7 @@ document.addEventListener('alpine:init', () => {
                     `https://kinopoiskapiunofficial.tech/api/v2.2/films?genres=18&order=NUM_VOTE&type=ALL&ratingFrom=0&ratingTo=10&yearFrom=1000&yearTo=3000&page=${this.page}`,
                     {
                         headers: {
-                            "X-API-KEY": "c550bd9c-a247-40da-b14d-469cc15c8c0b"
+                            "X-API-KEY": "29070f74-af77-46bc-a8b9-89ef73a7684c"
                         }
                     }
                 );
