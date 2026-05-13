@@ -56,7 +56,7 @@ document.addEventListener('alpine:init', () => {
                     {
                         headers: {
                             // Добавляем API-ключ в заголовки, как в requests
-                            "X-API-KEY": '29070f74-af77-46bc-a8b9-89ef73a7684c';
+                            "X-API-KEY": '29070f74-af77-46bc-a8b9-89ef73a7684c'
 "
                         }
                     }
