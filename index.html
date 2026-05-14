@@ -5,6 +5,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>VHSka</title>
 
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Montserrat+Alternates:wght@100..900&display=swap" rel="stylesheet">
@@ -15,13 +18,13 @@
 
 	<!-- HEADER -->
 	<header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
-		<div class="container mx-auto grid grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+		<div class="container mx-auto grid grid-cols-[auto_auto] md:grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
 
 			<a href="." class="flex h-9">
 				<img src="images/logo.png" alt="VHSka">
 			</a>
 
-			<nav>
+			<nav class="hidden md:flex">
 				<ul class="flex gap-4">
 					<li>
 						<a href="category.html?cat=movies" class="transition-colors hover:text-gray-300">ФИЛЬМЫ</a>
@@ -133,7 +136,7 @@
 						</ul>
 					</a>
 
-					<div class="grid grid-cols-5 gap-6">
+					<div class="grid grid-cols-2 md:grid-cols-5 gap-6">
 						<!-- Перебираем массив movies из скрипта home.js -->
 						<template x-for="film in movies" :key="film.kinopoiskId">
 							<!-- Обернули в тег <a> для возможности перехода на страницу фильма -->
@@ -178,7 +181,7 @@
 					<h2 class="group flex w-fit items-center gap-1 py-10 text-2xl font-bold">
 						Под вайб
 					</h2>
-					<div class="grid grid-cols-5 gap-6">
+					<div class="grid grid-cols-1 md:grid-cols-5 gap-6">
 						<!-- Категория 1: Популярное -->
 						<a href="category.html?cat=popular" class="group relative flex aspect-[5/6] items-center justify-center overflow-hidden rounded-xl bg-neutral-800 shadow-lg ring-1 ring-white/10 transition-all duration-500 hover:-translate-y-1 hover:ring-white/20">
 							<!-- Фоновое изображение категории -->
@@ -273,7 +276,7 @@
 						</ul>
 					</a>
 
-					<div class="grid grid-cols-5 gap-6">
+					<div class="grid grid-cols-2 md:grid-cols-5 gap-6">
 						<!-- Перебираем массив movies из скрипта home.js -->
 						<template x-for="film in series" :key="film.kinopoiskId">
 							<!-- Обернули в тег <a> для возможности перехода на страницу фильма -->
@@ -326,7 +329,7 @@
 						</ul>
 					</a>
 
-					<div class="grid grid-cols-5 gap-6">
+					<div class="grid grid-cols-2 md:grid-cols-5 gap-6">
 						<!-- Перебираем массив movies из скрипта home.js -->
 						<template x-for="film in cartoons" :key="film.kinopoiskId">
 							<!-- Обернули в тег <a> для возможности перехода на страницу фильма -->

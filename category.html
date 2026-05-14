@@ -3,9 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>VHSka — Каталог</title>
+	<title>VHSka</title>
 
-	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Montserrat+Alternates:wght@100..900&display=swap" rel="stylesheet">
 	<link href="./output.css" rel="stylesheet">
 </head>
 
@@ -13,13 +18,13 @@
 
 	<!-- HEADER -->
 	<header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
-		<div class="container mx-auto grid grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+		<div class="container mx-auto grid grid-cols-[auto_auto] md:grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
 
 			<a href="." class="flex h-9">
 				<img src="images/logo.png" alt="VHSka">
 			</a>
 
-			<nav>
+			<nav class="hidden md:flex">
 				<ul class="flex gap-4">
 					<li>
 						<a href="category.html?cat=movies" class="transition-colors hover:text-gray-300">ФИЛЬМЫ</a>
@@ -52,7 +57,7 @@
 	</header>
 
 	<main class="py-10">
-		<section class="container mx-auto px-4 py-10" x-data="catalogPage">
+		<section class="container mx-auto px-4 py-10" x-data="catalogPage" x-init="init()">
 			
 			<!-- Динамический заголовок страницы -->
 			<h1 class="text-4xl font-bold mb-10" x-text="categoryTitle">Загрузка...</h1>
@@ -67,7 +72,7 @@
 			<!-- Вывод списка фильмов (показывается только когда загрузка завершена) -->
 			<template x-if="!isLoading">
 				<div>
-					<div class="grid grid-cols-5 gap-10">
+					<div class="grid grid-cols-2 md:grid-cols-5 gap-6">
 						
 						<template x-for="movie in movies" :key="movie.kinopoiskId">
 							<!-- Ссылка ведет на чистый movie.html -->
@@ -139,6 +144,7 @@
 	<!-- Подключаем скрипты строго перед закрывающим body -->
 	<script src="./js/config.js"></script>
 	<script src="./js/category.js"></script>
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 
 </body>
 </html>
