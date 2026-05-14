@@ -105,7 +105,7 @@
 					<div class="text-neutral-100">
 						<h1 class="text-4xl font-black mb-4" x-text="movie.name">Название</h1>
 						<p class="text-gray-300 leading-relaxed mb-6" x-text="movie.description">Описание временно отсутствует.</p>
-<!-- 
+					<!-- 
 						<ul class="text-neutral-400 space-y-2">
 							<li><strong class="text-white">Год:</strong> <span x-text="movie.year || '—'"></span></li>
 							<li><strong class="text-white">Режиссёр:</strong> <span>—</span></li>
@@ -126,7 +126,7 @@
 
 				<!-- Похожие фильмы -->
 				<template x-if="similars && similars.length > 0">
-					<section class="container mx-auto px-4 mt-10">
+					<section class="container mx-auto mt-10">
 						<h2 class="group flex w-fit items-center gap-1 mb-6 text-2xl font-bold">Похожие фильмы</h2>
 						<div class="grid grid-cols-2 lg:grid-cols-5 gap-6">
 							<template x-for="film in similars" :key="film.kinopoiskId">
