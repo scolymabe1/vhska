@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>VHSka — Каталог</title>
+
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
+	<link href="./output.css" rel="stylesheet">
+</head>
+
+<body class="bg-neutral-900 text-white font-montserrat min-h-screen">
+
+	<!-- HEADER -->
+	<header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
+		<div class="container mx-auto grid grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+
+			<a href="." class="flex h-9">
+				<img src="images/logo.png" alt="VHSka">
+			</a>
+
+			<nav>
+				<ul class="flex gap-4">
+					<li>
+						<a href="category.html?cat=movies" class="transition-colors hover:text-gray-300">ФИЛЬМЫ</a>
+					</li>
+					<li>
+						<a href="category.html?cat=series" class="transition-colors hover:text-gray-300">СЕРИАЛЫ</a>
+					</li>
+					<li>
+						<a href="category.html?cat=cartoons" class="transition-colors hover:text-gray-300">МУЛЬТФИЛЬМЫ</a>
+					</li>
+				</ul>
+			</nav>
+
+			<form action="search.html" method="get" class="flex items-center gap-2 rounded-lg bg-neutral-800 px-4 py-2">
+				<input
+					name="q"
+					type="text"
+					placeholder="Поиск..."
+					class="w-full bg-transparent text-white outline-none placeholder:text-sm placeholder:text-neutral-500"
+				>
+				<button
+					type="submit"
+					class="flex aspect-square items-center justify-center rounded-full bg-neutral-700 px-3 text-neutral-400 transition-opacity hover:opacity-80"
+				>
+					<span>➔</span>
+				</button>
+			</form>
+
+		</div>
+	</header>
+
+	<main class="py-10">
+		<section class="container mx-auto px-4 py-10" x-data="catalogPage">
+			
+			<!-- Динамический заголовок страницы -->
+			<h1 class="text-4xl font-bold mb-10" x-text="categoryTitle">Загрузка...</h1>
+
+			<!-- Лоадер во время запроса -->
+			<template x-if="isLoading">
+				<div class="flex justify-center items-center py-20 text-xl text-neutral-400">
+					<div class="animate-pulse">Идет загрузка...</div>
+				</div>
+			</template>
+
+			<!-- Вывод списка фильмов (показывается только когда загрузка завершена) -->
+			<template x-if="!isLoading">
+				<div>
+					<div class="grid grid-cols-5 gap-10">
+						
+						<template x-for="movie in movies" :key="movie.kinopoiskId">
+							<!-- Ссылка ведет на чистый movie.html -->
+							<a :href="'movie.html?id=' + movie.kinopoiskId" class="group relative aspect-[2/3] cursor-pointer overflow-hidden rounded-xl shadow-2xl transition-all duration-500 hover:-translate-y-3 hover:ring-4 hover:ring-inset hover:ring-white/20">
+								
+								<!-- Постер фильма -->
+								<img :src="movie.posterUrlPreview || 'images/no_poster.png'" :alt="movie.nameRu" @error="event.target.src='images/no_poster.png'" class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-110">
+
+								<!-- Левая верхняя плашка: Тип (Фильм / Сериал) -->
+								<div class="absolute left-3 top-3 rounded-lg backdrop-blur bg-black/50 px-2 py-1 text-sm">
+									<span x-text="movie.cleanType"></span>
+								</div>
+
+								<!-- Правая верхняя плашка: Рейтинг -->
+								<div class="absolute right-3 top-3 rounded-lg backdrop-blur bg-black/50 px-2 py-1 text-sm font-bold">
+									<span x-text="movie.cleanRating"></span>
+								</div>
+
+								<!-- Затемнение при наведении -->
+								<div class="absolute inset-0 bg-linear-to-t from-black via-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
+
+								<!-- Текстовый блок, выплывающий снизу -->
+								<div class="relative flex h-full flex-col justify-end p-4 text-center opacity-0 transition-all duration-500 group-hover:opacity-100">
+
+									<!-- Название фильма -->
+									<h3 class="text-lg font-bold leading-tight" x-text="movie.nameRu || movie.nameOriginal || 'Без названия'"></h3>
+
+									<!-- Год выпуска -->
+									<p class="text-sm text-gray-300 mt-1" x-text="movie.year + ' г.'"></p>
+
+									<!-- Жанры (выводятся снизу под годом) -->
+									<p class="text-xs text-neutral-400 mt-1 truncate" x-text="movie.cleanGenres"></p>
+
+								</div>
+							</a>
+						</template>
+						
+					</div>
+
+					<!-- Красивый блок пагинации внизу страницы -->
+					<div class="mt-12 flex items-center justify-center gap-6">
+						<button 
+							@click="prevPage()" 
+							:disabled="currentPage === 1"
+							class="px-5 py-2 rounded-lg bg-neutral-800 text-sm font-medium transition-colors hover:bg-neutral-700 disabled:opacity-30 disabled:hover:bg-neutral-800"
+						>
+							← Назад
+						</button>
+						
+						<div class="text-sm text-neutral-400 font-medium">
+							Страница <span class="text-white font-bold" x-text="currentPage"></span> из <span class="text-white font-bold" x-text="totalPages"></span>
+						</div>
+						
+						<button 
+							@click="nextPage()" 
+							:disabled="currentPage === totalPages"
+							class="px-5 py-2 rounded-lg bg-neutral-800 text-sm font-medium transition-colors hover:bg-neutral-700 disabled:opacity-30 disabled:hover:bg-neutral-800"
+						>
+							Вперед →
+						</button>
+					</div>
+
+				</div>
+			</template>
+
+		</section>
+	</main>
+
+	<!-- Подключаем скрипты строго перед закрывающим body -->
+	<script src="./js/config.js"></script>
+	<script src="./js/category.js"></script>
+
+</body>
+</html>

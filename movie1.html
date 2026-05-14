@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>VHSka</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap" rel="stylesheet">
+
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
+
+	<link href="./output.css" rel="stylesheet">
+</head>
+
+<body class="flex min-h-screen flex-col bg-neutral-900 text-white font-montserrat">
+
+<header class="sticky top-0 z-50 bg-neutral-900 shadow">
+	<div class="container mx-auto grid grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+
+		<a href=".">
+			<img src="images/logo.png" class="h-9">
+		</a>
+
+		<nav>
+			<ul class="flex gap-4">
+				<li><a href="films.html">ФИЛЬМЫ</a></li>
+				<li><a href="series.html">СЕРИАЛЫ</a></li>
+				<li><a href="cartoons.html">МУЛЬТФИЛЬМЫ</a></li>
+			</ul>
+		</nav>
+
+	</div>
+</header>
+
+<main x-data="home" x-init="init()">
+
+<!-- HERO -->
+<section class="relative h-[80vh] overflow-hidden">
+
+	<img
+		:src="heroMovie ? heroMovie.poster : 'images/hero_poster (8).png'"
+		class="h-full w-full object-cover"
+	>
+
+	<div class="absolute inset-0 bg-gradient-to-t from-black"></div>
+
+	<div class="absolute bottom-20 left-10 max-w-2xl">
+
+		<div class="flex gap-2 mb-3">
+
+			<span class="bg-white text-black px-3 py-1 rounded">
+
+			</span>
+
+			<span class="bg-black/40 px-3 py-1 rounded">
+
+			</span>
+
+		</div>
+
+		<h1 class="text-5xl font-black mb-4">
+
+		</h1>
+
+		<p class="text-gray-300">
+			
+		</p>
+
+		<button
+			class="mt-6 bg-white text-black px-6 py-3 rounded"
+			@click="openMovie(heroMovie)"
+			x-show="heroMovie"
+		>
+			Смотреть
+		</button>
+
+	</div>
+
+</section>
+
+<!-- FILMS -->
+<section class="p-10">
+
+	<h2 class="text-2xl font-bold mb-4">Фильмы</h2>
+
+	<div class="grid grid-cols-5 gap-6">
+
+		<template x-for="film in films" :key="film.id">
+			<div class="cursor-pointer" @click="openMovie(film)">
+
+				<img :src="film.poster" class="rounded">
+
+				<div class="text-sm mt-2">
+					<div x-text="film.title"></div>
+
+					<div class="text-gray-400">
+						<span x-text="film.rating"></span>
+					</div>
+
+					<div class="text-gray-500 text-xs">
+						<span x-text="(film.genres || []).join(', ')"></span>
+					</div>
+				</div>
+
+			</div>
+		</template>
+
+	</div>
+
+</section>
+
+<!-- SERIES -->
+<section class="p-10">
+
+	<h2 class="text-2xl font-bold mb-4">Сериалы</h2>
+
+	<div class="grid grid-cols-5 gap-6">
+
+		<template x-for="movie in movies" :key="movie.id">
+			<div class="cursor-pointer" @click="openMovie(movie)">
+
+				<img :src="movie.poster" class="rounded">
+
+				<div class="text-sm mt-2">
+					<div x-text="movie.title"></div>
+					<div class="text-gray-400" x-text="movie.rating"></div>
+				</div>
+
+			</div>
+		</template>
+
+	</div>
+
+</section>
+
+</main>
+
+<script src="./js/api.js"></script>
+<script src="./js/home.js"></script>
+
+</body>
+</html>

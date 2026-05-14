@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>VHSka</title>
+
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
+	<link href="./output.css" rel="stylesheet">
+</head>
+
+<body class="bg-neutral-900 text-white font-montserrat min-h-screen">
+
+	<!-- HEADER -->
+	<header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
+		<div class="container mx-auto grid grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+
+			<a href="." class="flex h-9">
+				<img src="images/logo.png" alt="VHSka">
+			</a>
+
+			<nav>
+				<ul class="flex gap-4">
+					<li>
+						<a href="films.html" class="transition-colors hover:text-gray-300">ФИЛЬМЫ</a>
+					</li>
+					<li>
+						<a href="series.html" class="transition-colors hover:text-gray-300">СЕРИАЛЫ</a>
+					</li>
+					<li>
+						<a href="cartoons.html" class="transition-colors hover:text-gray-300">МУЛЬТФИЛЬМЫ</a>
+					</li>
+				</ul>
+			</nav>
+
+			<form action="search.html" method="get" class="flex items-center gap-2 rounded-lg bg-neutral-800 px-4 py-2">
+				<input
+					name="q"
+					type="text"
+					placeholder="Поиск..."
+					class="w-full bg-transparent text-white outline-none placeholder:text-sm placeholder:text-neutral-500"
+					>
+				<button
+					type="submit"
+					class="flex aspect-square items-center justify-center rounded-full bg-neutral-700 px-3 text-neutral-400 transition-opacity hover:opacity-80"
+				>
+					<span>+</span>
+				</button>
+			</form>
+
+		</div>
+	</header>
+
+    <main class="py-10" x-data="moviePage" x-init="init()">
+		<section class="container mx-auto px-4">
+			<!-- Кнопка назад -->
+			<a href="index.html" class="text-neutral-400 hover:text-white transition mb-6 inline-block">← Главная</a>
+		</section>
+    
+		
+		<section class="container mx-auto px-4">
+			<div class="flex flex-col gap-6">
+				<!-- 300px постер / информация -->
+				<div class="grid grid-cols-[300px_1fr] gap-6">
+					<!-- Постер -->
+					<div class="group relative aspect-2/3 overflow-hidden rounded-xl shadow-2xl ring-white/10">
+						<img 
+							src="https://kinopoiskapiunofficial.tech/images/posters/kp/105948.jpg" 
+							class="absolute inset-0 h-full w-full object-cover"
+						>
+						<!-- Верхняя часть -->
+						<div class="absolute top-3 inset-x-3 flex justify-between">
+							<span class="text-sm font-medium text-white w-fit h-fit px-3 py-1 rounded-full bg-black/30 backdrop-blur ring-1 ring-white/10">
+								18+
+							</span>
+							<span class="text-sm font-medium text-white w-fit h-fit px-3 py-1 rounded-full bg-black/30 backdrop-blur ring-1 ring-white/10">
+								Фильм
+							</span>
+						</div>
+						<!-- Нижняя часть -->
+						<div class="absolute bottom-3 inset-x-3 flex justify-between">
+							<span class="text-sm font-medium text-white w-fit h-fit px-3 py-1 rounded-full bg-black/30 backdrop-blur ring-1 ring-white/10">
+								7.3
+							</span>
+							<span class="text-sm font-medium text-white w-fit h-fit px-3 py-1 rounded-full bg-black/30 backdrop-blur ring-1 ring-white/10">
+								2010
+							</span>
+						</div>
+					</div>
+
+					<!-- Информация -->
+					<div class="flex flex-col gap-2">
+						<div class="flex flex-col gap-2">
+							<h1 class="text-5xl font-black">
+								Скотт Пилигрим против всех
+							</h1>
+							<p class="text-gray-300 leading-relaxed">
+								Скотт Пилигрим нашел девушку своей мечты. Но на его пути стоит более сложная задача: чтобы встречаться с ней, Скотту придется победить ее семерых бывших.
+							</p>
+						</div>
+						<ul class="text-gray-300">
+							<li class="flex gap-2">
+								<p>Год выхода:</p>
+								<a href="#" class="text-pink-500">2010</a>
+							</li>
+							<li class="flex gap-2">
+								<p>Режиссёр:</p>
+								<a href="#" class="text-pink-500">Эдгар Райт</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="flex flex-col gap-2">
+					<img src="https://media.kg-portal.ru/production/scottpilgrimvstheworld/scottpilgrimvstheworld_45.jpg" class="w-full aspect-video rounded-xl shadow-2xl bg-black object-cover">
+					<div class="flex gap-2">
+						<button class="w-fit h-fit px-6 py-2 rounded-xl bg-black/50 hover:bg-black/20 backdrop-blur cursor-pointer">
+							<span class="text-sm font-medium text-gray-500">
+								Плеер 1
+							</span>
+						</button>
+						<button class="w-fit h-fit px-6 py-2 rounded-xl bg-black/50 hover:bg-black/20 backdrop-blur cursor-pointer">
+							<span class="text-sm font-medium text-gray-400">
+								Плеер 2
+							</span>
+						</button>
+					</div>
+				</div>
+				<!-- Плеер -->
+				
+
+				<!-- Сам плеер -->
+				<!-- x-show скрывает квадрат малевича, пока ссылка не загрузилась -->
+				<iframe
+					x-show="iframeLink"
+					class="w-full aspect-video rounded-xl shadow-2xl bg-black"
+					:src="iframeLink"
+					allowfullscreen
+				></iframe>
+			</div>
+		</section>
+		
+	</main>
+
+
+<!-- <script src="./js/api.js"></script>
+<script src="./js/home.js"></script> -->
+
+</body>
+</html>
