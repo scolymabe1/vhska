@@ -18,13 +18,13 @@
 
     <!-- HEADER (копия из index.html для консистентности) -->
     <header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
-		<div class="container mx-auto grid grid-cols-[auto_auto] md:grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+		<div class="container mx-auto grid grid-cols-[auto_auto] lg:grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
 
 			<a href="." class="flex h-9">
 				<img src="images/logo.png" alt="VHSka">
 			</a>
 
-			<nav class="hidden md:flex">
+			<nav class="hidden lg:flex">
 				<ul class="flex gap-4">
 					<li>
 						<a href="category.html?cat=movies" class="transition-colors hover:text-gray-300">ФИЛЬМЫ</a>
@@ -73,7 +73,7 @@
             </template>
 
             <template x-if="!isLoading && results.length > 0">
-                <div class="grid grid-cols-2 md:grid-cols-5 gap-6">
+                <div class="grid grid-cols-2 lg:grid-cols-5 gap-6">
                     <template x-for="film in results" :key="film.kinopoiskId">
                         <a :href="'movie.html?id=' + film.kinopoiskId" class="group relative aspect-[2/3] cursor-pointer overflow-hidden rounded-xl shadow-2xl transition-all duration-500 hover:-translate-y-3 hover:ring-4 hover:ring-inset hover:ring-white/20">
                             <img :src="film.posterUrlPreview || 'images/no_poster.png'" :alt="film.nameRu" class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-110">

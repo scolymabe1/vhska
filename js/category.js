@@ -21,6 +21,9 @@ document.addEventListener('alpine:init', () => {
             // 2. Достаем настройки выбранной категории из глобального объекта CATEGORIES (из config.js)
             const currentCat = CATEGORIES[catKey] || CATEGORIES['popular'];
             this.categoryTitle = currentCat.title;
+            
+            // Обновляем заголовок страницы
+            document.title = this.categoryTitle + ' | VHSka';
 
             this.isLoading = true;
 

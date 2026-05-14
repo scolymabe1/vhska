@@ -45,6 +45,9 @@ document.addEventListener('alpine:init', () => {
                                 cleanGenres: genresString || '',
                                 cleanAge: f.ratingAgeLimits ? f.ratingAgeLimits.replace('age', '') + '+' : '12+'
                             };
+                            
+                            // Обновляем заголовок страницы
+                            document.title = this.movie.name + ' | VHSka';
                         }
                         if (this.rawSimilars) {
                             this.similars = (this.rawSimilars || []).slice(0, 5).map(item => ({
@@ -98,6 +101,9 @@ document.addEventListener('alpine:init', () => {
                                 cleanGenres: genresString || '',
                                 cleanAge: f.ratingAgeLimits ? f.ratingAgeLimits.replace('age', '') + '+' : '12+'
                             };
+                            
+                            // Обновляем заголовок страницы
+                            document.title = this.movie.name + ' | VHSka';
 
                             this.rawFilm = rawFilm;
                             break;

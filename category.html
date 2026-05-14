@@ -18,13 +18,13 @@
 
 	<!-- HEADER -->
 	<header class="sticky top-0 z-50 bg-neutral-900 shadow-[1px_5px_10px_rgb(20,20,20)]">
-		<div class="container mx-auto grid grid-cols-[auto_auto] md:grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
+		<div class="container mx-auto grid grid-cols-[auto_auto] lg:grid-cols-[auto_1fr_400px] items-center gap-10 px-4 py-3">
 
 			<a href="." class="flex h-9">
 				<img src="images/logo.png" alt="VHSka">
 			</a>
 
-			<nav class="hidden md:flex">
+			<nav class="hidden lg:flex">
 				<ul class="flex gap-4">
 					<li>
 						<a href="category.html?cat=movies" class="transition-colors hover:text-gray-300">ФИЛЬМЫ</a>
@@ -72,7 +72,7 @@
 			<!-- Вывод списка фильмов (показывается только когда загрузка завершена) -->
 			<template x-if="!isLoading">
 				<div>
-					<div class="grid grid-cols-2 md:grid-cols-5 gap-6">
+					<div class="grid grid-cols-2 lg:grid-cols-5 gap-6">
 						
 						<template x-for="movie in movies" :key="movie.kinopoiskId">
 							<!-- Ссылка ведет на чистый movie.html -->
